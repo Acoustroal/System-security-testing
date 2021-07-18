@@ -2,7 +2,7 @@
 set -e
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
-trap "echo -e '\nBye~The scipt by Sebastion(https://blog.linux-code.com)'" EXIT
+trap "echo -e '\nBye~The scipt by RokasUrbelis(https://blog.linux-code.com)'" EXIT
 NULL="/dev/null"
 RESULT="result.$(date +%F-%H:%M)"
 [ $(id -u) != '0' ] && echo "Must be root or use 'sudo' to exec the scipt" && exit 1
