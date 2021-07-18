@@ -268,12 +268,12 @@ echo "#############################################################"
 echo "# Hacking Automation Script                                 #"
 echo "# Intro : https://blog.linux-code.com                       #"
 echo "# Author: RokasUrbelis(Sebastion)                           #"
-echo "# Email : Lonlyterminals@gmail.com                          #"
+echo "# Email : Rokas.Yang@gmail.com                              #"
 echo "# QQ    : 1798996632                                        #"
 echo "#############################################################"
 sleep 0.5
 echo -e "[\033[32m+\033[0m]The script By RokasUrbelis(Sebastion)"
-echo -e "[\033[32m+\033[0m]Article address:https://blog.linux-code.com/articles/thread-977.html"
+echo -e "[\033[32m+\033[0m]Article address:https://blog.linux-code.com/articles/thread-659.html"
 sleep 0.5
 SYS_CHECK
 echo "################选择你要执行的选项################"
